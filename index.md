@@ -1,4 +1,7 @@
-
+---
+layout: false
+---
+{% raw %}
 <!DOCTYPE HTML>
 <html lang="zh-CN">
 <head>
@@ -16,3 +19,4 @@
     </script>
 </head>
 </html>
+{% endraw %}
