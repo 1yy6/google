@@ -2,7 +2,6 @@
 layout: false
 ---
 {% raw %}
-<!DOCTYPE HTML>
 <html lang="zh-CN">
 <head>
     <meta charset="UTF-8">
