@@ -14,7 +14,7 @@ layout: false
           else{
           var lang = navigator.userLanguage
           }
-          location.href = "http://www.google.com/?hl="+lang+"";
+          location.href = "http://www.goge.eu.org/?hl="+lang+"";
     </script>
 </head>
 </html>
